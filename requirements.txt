@@ -1,0 +1,19 @@
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+black
+isort
+autopep8
+pylint
+mypy
+pre-commit
+python-dotenv>=0.5.1
+
+# data science requirements
+numpy
+pandas
+plotly
+
